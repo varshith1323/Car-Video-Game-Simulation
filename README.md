@@ -13,11 +13,11 @@ all start moving in their current direction as far as they can without hitting a
 hitting a wall, their behaviour is different. The cars, named Lemon, PingPong and Spinner, act
 as follows:
 
-A. Lemon: If it hits a wall of the room, it stops and does not move any further for the rest of
+1. Lemon: If it hits a wall of the room, it stops and does not move any further for the rest of
 the game
-B. PingPong: If it hits a wall, it reverses direction, that is, it turns back and completes the
+2. PingPong: If it hits a wall, it reverses direction, that is, it turns back and completes the
 remaining steps in this reversed direction
-C. Spinner: If it hits a wall, it turns right and continues moving along the wall (i.e. with the
+3. Spinner: If it hits a wall, it turns right and continues moving along the wall (i.e. with the
 wall on its left) for the remaining steps.
 
 We say a car “hits” a wall when it cannot move forward in its current direction.
