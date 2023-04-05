@@ -1,4 +1,4 @@
-# Car-Video-Game-Simulation
+# Car Video Game Simulation
 
 This simple game consists of a rectangular room in which different kinds of toy cars are moving
 around. All cars have some common properties:
