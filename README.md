@@ -58,17 +58,17 @@ repeats this N times.
 - Prints out the final position of each car in the order in which they were created. 
 
 
-Sample input
-5 20 10 30
-4
-Lemon 12 20 right
-PingPong 8 15 right
-Spinner 15 25 right
-PingPong 10 30 left
-5 3
-
-Expected output
-20 20
-1715
-15 30
-15 30
+Sample input  
+5 20 10 30  
+4  
+Lemon 12 20 right  
+PingPong 8 15 right  
+Spinner 15 25 right  
+PingPong 10 30 left  
+5 3  
+   
+Expected output  
+20 20  
+17 15  
+15 30    
+15 30  
