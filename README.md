@@ -1,5 +1,7 @@
 # Car Video Game Simulation
 
+[This project has been implemented in both Java and CPP separately]
+
 This simple game consists of a rectangular room in which different kinds of toy cars are moving
 around. All cars have some common properties:
 
